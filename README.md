@@ -74,7 +74,11 @@ result = np.random.choice([0, 1]. size = 1000, p=[prob_0, prob_1])
 Then we plot a histogram to show the results approximate 50/50 over many trials. 
 
 # Examples: 
+![Output](Quout.png)
 
+
+![BarGraph](QubitBar.png)
+![Histogram](QubitHisto1.png)
 
 # How to Run?
 Make sure you have python and the following libraries installed: 
